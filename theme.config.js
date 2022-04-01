@@ -57,7 +57,7 @@ export default {
       <meta name="msapplication-TileImage" content="/ms-icon-144x144.png" />
     </>
   ),
-  search: true,
+  // search: true,
   unstable_stork:true,
   prevLinks: true,
   nextLinks: true,
