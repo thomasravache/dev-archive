@@ -2,7 +2,7 @@
 
 São boas práticas de commits para deixar o seu versionamento de código mais assertivo.
 
-# Uso
+## Uso
 
 * **feat**: A new feature.
 * **fix**: A bug fix.
@@ -13,7 +13,7 @@ São boas práticas de commits para deixar o seu versionamento de código mais a
 * **test**: Adding missing tests.
 * **chore**: Changes to the build process or auxiliary tools and libraries such as documentation generation.
 
-## Créditos:
+## Créditos
 
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 
