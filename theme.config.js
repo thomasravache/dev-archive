@@ -1,12 +1,12 @@
 export default {
-  github: 'https://github.com/shuding/nextra',
-  docsRepositoryBase: 'https://github.com/shuding/nextra/blob/master',
-  titleSuffix: ' – Nextra',
+  github: 'https://github.com/thomasravache/dev-archive',
+  docsRepositoryBase: 'https://github.com/thomasravache/dev-archive',
+  titleSuffix: ' – Thomas Dev Archive',
   logo: (
     <>
-      <span className="mr-2 font-extrabold hidden md:inline">Arquivo dev de Thomas Ravache</span>
+      <span className="mr-2 font-extrabold hidden md:inline">Thomas Dev Archive</span>
       <span className="text-gray-600 font-normal hidden md:inline">
-        Feito para inserir anotações, dicas e boas práticas relacionadas a código
+        Para anotações, dicas e boas práticas relacionadas a código e +
       </span>
     </>
   ),
