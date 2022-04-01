@@ -1,4 +1,4 @@
-# Conventional Commits
+# Conventional Commits - `git` `github`
 
 São boas práticas de commits para deixar o seu versionamento de código mais assertivo.
 
