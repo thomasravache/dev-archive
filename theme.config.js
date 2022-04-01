@@ -6,7 +6,7 @@ export default {
     <>
       <span className="mr-2 font-extrabold hidden md:inline">Thomas Dev Archive</span>
       <span className="text-gray-600 font-normal hidden md:inline">
-        Para anotações, dicas e boas práticas relacionadas a código e +
+        Para anotações, dicas, boas práticas relacionadas a código e +
       </span>
     </>
   ),
