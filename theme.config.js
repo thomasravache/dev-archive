@@ -57,12 +57,11 @@ export default {
       <meta name="msapplication-TileImage" content="/ms-icon-144x144.png" />
     </>
   ),
-  // search: true,
-  unstable_stork:true,
+  search: true,
   prevLinks: true,
   nextLinks: true,
   footer: true,
   footerEditLink: 'Edit this page on GitHub',
   footerText: <>MIT {new Date().getFullYear()} © Nextra.</>,
-  unstable_faviconGlyph: '👋',
+  unstable_faviconGlyph: '📑',
 }
