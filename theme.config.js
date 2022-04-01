@@ -58,6 +58,7 @@ export default {
     </>
   ),
   search: true,
+  unstable_stork:true,
   prevLinks: true,
   nextLinks: true,
   footer: true,
