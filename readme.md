@@ -1,6 +1,6 @@
 # Thomas Dev Archive
 
-*Inspirado pelo **[second brain](https://segundocerebro.vercel.app/).*** Feito com [Nextra](https://github.com/shuding/nextra).
+*Inspirado pelo **[second brain](https://nextra.vercel.app/).*** Feito com [Nextra](https://github.com/shuding/nextra).
 
 projeto foi feito para:
 
