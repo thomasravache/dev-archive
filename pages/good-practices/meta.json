@@ -1,3 +1,4 @@
 {
-  "conventional-commits": "Conventional Commits [git, github]"
+  "conventional-commits": "Conventional Commits [git, github]",
+  "post-project": "Pós projeto [github, sonarcloud]"
 }
